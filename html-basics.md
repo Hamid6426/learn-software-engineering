@@ -1,6 +1,6 @@
-# Basic HTML Review
+# HTML Basics
 
-## HTML Basics
+## Basics
 
 **Role of HTML:** HTML represents the content and structure of the web page.
 
